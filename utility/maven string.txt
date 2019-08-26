@@ -1,0 +1,1 @@
+mvn install:install-file -Dfile=C:\\Users\\Uzytkownik\\Desktop\\PSI-Projekt\\src\\main\\java\\com\\psi\\project\\dbdriver\\ojdbc8.jar -DgroupId=com.github.noraui -DartifactId=ojdbc8 -Dversion=12.2.0.1 -Dpackaging=jar
